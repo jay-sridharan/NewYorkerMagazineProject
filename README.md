@@ -29,21 +29,21 @@ To use the portable version of this software, copy the `ScribusPortable` directo
 ### Using Scribus
 Scribus has a wealth of documentation and tutorial available for learning the software. Here are a few links:
 
-https://wiki.scribus.net/canvas/Scribus
-https://wiki.scribus.net/canvas/Scribus_Video_Tutorials
-https://www.youtube.com/playlist?list=PLHQhkJ5kqi5T-oWdYaYYa3gLUJ947TCuu
-https://www.youtube.com/watch?v=JmmeLoqLhNE
+ - https://wiki.scribus.net/canvas/Scribus
+ - https://wiki.scribus.net/canvas/Scribus_Video_Tutorials
+ - https://www.youtube.com/playlist?list=PLHQhkJ5kqi5T-oWdYaYYa3gLUJ947TCuu
+ - https://www.youtube.com/watch?v=JmmeLoqLhNE
 
 ## Magazine.sla
 This section will outline how `Magazine.sla` is structured and how you should use it. To open this `Magazine.sla`, open Scribus, then naviagate to `File > Open`. Once you've familiarized yourself with how Scribus works, come back and read this section.
 ### Page Setup.
 Magazine.sla is set up as a Double-Sided document. The page configuration is as follows:
 
-![alt text](https://raw.githubusercontent.com/jayasurya-sridharan/MagazineProject/blob/master/readme_files/setup.PNG)
+![alt text](https://raw.githubusercontent.com/jayasurya-sridharan/MagazineProject/master/readme_files/setup.PNG)
 
 
 ### Sections
-
+ 
 I used sections to make the page numbers begin at page 3 rather than page 1. Because certain pages do not include a page number, I did not include the page numbers in the master page. Rather, I copied and pasted the page numbers and associated text on only the pages that required them. Because Scribus positions elements based on the page it is on, I only had to position the page numbers once. When copying, the postition of the page numbers relative to the page did not change, sparing me the inconvenience of having to reposition the page number on each page.
 
 ### Styles
