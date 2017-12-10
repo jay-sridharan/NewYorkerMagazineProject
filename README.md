@@ -39,7 +39,7 @@ This section will outline how `Magazine.sla` is structured and how you should us
 ### Page Setup.
 Magazine.sla is set up as a Double-Sided document. The page configuration is as follows:
 
-![alt text](https://raw.githubusercontent.com/jayasurya-sridharan/MagazineProject/master/readme_files/setup.PNG)
+![alt text](https://raw.githubusercontent.com/jayasurya-sridharan/NewYorkerMagazineProject/master/readme_files/setup.PNG?token=AGqIeJYXPvssJbI6iMsTS9EJLQiItar_ks5aNtcIwA%3D%3D)
 
 
 ### Sections
